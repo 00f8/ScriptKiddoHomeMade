@@ -20,8 +20,8 @@
 <a href="https://store.luawl.com/shop?id=5c740fccd7978630fc24d15c6d56cc6a94cb482e" target="_blank">
   <img src="https://raw.githubusercontent.com/ScriptKiddoHomeMade/imagelibrary/main/Artboard%201.png" >
  </a>
-
-
+  <img src="https://raw.githubusercontent.com/ScriptKiddoHomeMade/imagelibrary/main/maddex%201.gif" >
+https://github.com/ScriptKiddoHomeMade/imagelibrary/blob/main/maddex.gif?raw=true
 
 <!--
 **ScriptKiddoHomeMade/ScriptKiddoHomeMade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
