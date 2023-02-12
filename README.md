@@ -1,14 +1,7 @@
 ### Hi there 👋
 
 
-<html>
-<head>
-<p>Our Funky HTML Page</p>
-</head>
-<body>
-<iframe src="https://discord.com/widget?id=1030514755326193826&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</body>
-</html>
+![Discord Banner 4](https://discordapp.com/api/guilds/1030514755326193826/widget.png?style=banner4)
 <!--
 **ScriptKiddoHomeMade/ScriptKiddoHomeMade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
