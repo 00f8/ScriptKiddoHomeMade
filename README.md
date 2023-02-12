@@ -20,7 +20,7 @@
 <a href="https://discord.gg/nxR2MfBWNW" target="_blank">
   <img src="https://discordapp.com/api/guilds/1030514755326193826/widget.png?style=banner4" alt="Discord Banner 4"/>
  </a>
-![](https://github.com/ScriptKiddoHomeMade/imagelibrary/blob/main/Artboard%201.png?raw=true)
+![](https://raw.githubusercontent.com/ScriptKiddoHomeMade/imagelibrary/main/Artboard%201.png)
 
 
 <!--
