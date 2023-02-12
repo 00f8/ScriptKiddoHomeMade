@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![R-CMD-check](https://discord.com/api/guilds/1030514755326193826/widget.json)
+![](https://discord.com/api/guilds/1030514755326193826/widget.json)
 <!--
 **ScriptKiddoHomeMade/ScriptKiddoHomeMade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
