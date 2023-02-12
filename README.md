@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '1030514755326193826', // Secret Society
-        channel: '1062905181848731659' // #📢
-    })
-</script>
+<!doctype html>
+<html>
+<head>
+<title>Our Funky HTML Page</title>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
+</head>
+<body>
+Content goes here.
+</body>
+</html>
 <!--
 **ScriptKiddoHomeMade/ScriptKiddoHomeMade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
