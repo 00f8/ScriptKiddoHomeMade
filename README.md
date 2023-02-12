@@ -17,10 +17,10 @@
  </a>
 
 
-<a href="https://discord.gg/nxR2MfBWNW" target="_blank">
-  <img src="https://raw.githubusercontent.com/ScriptKiddoHomeMade/imagelibrary/main/Artboard%201.png" alt="Discord Banner 4"/>
+<a href="https://store.luawl.com/shop?id=5c740fccd7978630fc24d15c6d56cc6a94cb482e" target="_blank">
+  <img src="https://raw.githubusercontent.com/ScriptKiddoHomeMade/imagelibrary/main/Artboard%201.png" >
  </a>
-![]()
+
 
 
 <!--
