@@ -6,12 +6,7 @@
 <p>Our Funky HTML Page</p>
 </head>
 <body>
-<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '1030514755326193826', // Secret Society
-        channel: '1062905181848731659' // #📢
-    })
-</script>
+<iframe src="https://discord.com/widget?id=1030514755326193826&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </body>
 </html>
 <!--
