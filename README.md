@@ -2,6 +2,7 @@
 
 
 ![Discord Banner 4](https://discordapp.com/api/guilds/1030514755326193826/widget.png?style=banner4)
+<img src="https://discordapp.com/api/guilds/1030514755326193826/widget.png?style=banner4" alt="Discord Banner 4"/>
 <!--
 **ScriptKiddoHomeMade/ScriptKiddoHomeMade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
