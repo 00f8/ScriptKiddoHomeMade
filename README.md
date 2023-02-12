@@ -1,4 +1,12 @@
-### Hi there 👋
+### Just A young Programmer 
+
+### If your here your probaly skidding.
+
+### Everything I Make Here Is HomeMade
+
+### Skidding is ok with me just dont sell my shit
+
+### Join The Discord To By My Hacks 💵😘
 
 <a href="https://discord.gg/nxR2MfBWNW" target="_blank">
   <img src="https://discordapp.com/api/guilds/1030514755326193826/widget.png?style=banner4" alt="Discord Banner 4"/>
