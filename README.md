@@ -6,14 +6,13 @@
 <p>Our Funky HTML Page</p>
 </head>
 <body>
-Content goes here.
-</body>
- <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
     new Crate({
         server: '1030514755326193826', // Secret Society
         channel: '1062905181848731659' // #📢
     })
 </script>
+</body>
 </html>
 <!--
 **ScriptKiddoHomeMade/ScriptKiddoHomeMade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
