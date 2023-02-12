@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!doctype html>
+
 <html>
 <head>
 <p>Our Funky HTML Page</p>
